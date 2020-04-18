@@ -1,0 +1,5 @@
+#Practica para git basico CONTAGESCO
+#APLICACION CONTA
+
+Funcionalidades:
+DIARIO DE MOVIMIENTOS
