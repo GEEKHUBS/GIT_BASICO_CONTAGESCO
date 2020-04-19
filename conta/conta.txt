@@ -9,3 +9,4 @@ FACTURAS PARA NO CONTABLES
 CALCULOS DE EXTRACTOS 
 GESTION DE IMPUESTOS
 funcionalidad de impuestos sin ponerme al dia en la branch developconta * v.1.2 me dio error y lo corregi
+ENLACE CONTABLE - recojo la informacion
