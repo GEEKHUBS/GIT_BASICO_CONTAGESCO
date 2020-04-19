@@ -9,6 +9,7 @@ Aplicacion de contabilidad y gestion
 
 
 Objetivo : 
+APRENDER GIT HUB BASICO CON SENTIDO PRACTICO_cambio en local para genera conflicto
 CREAR UN REPOSITORIO INICIAL EN LOCAL
 CARPETAS
 FICHEROS
