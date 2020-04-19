@@ -11,4 +11,4 @@ GESTION DE COBROS
 XML PARA FACTURA ELECTRONICA
 INFORMES - funcionalidad implmentada en la rama develop para que solo se vea en remoto en developgesco
 INFORMES ESTABLE - despues de haber realizado la implementacion de funcionalidad en una rama
-envio la informacion
+ENVIO LA INFORMACION - CORREGIDO ERROR DE TRASPASO DE FECHA YA ES OK 
