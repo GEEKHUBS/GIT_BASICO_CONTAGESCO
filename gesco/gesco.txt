@@ -10,3 +10,4 @@ CALCULOS IMPUESTOS
 GESTION DE COBROS
 XML PARA FACTURA ELECTRONICA
 INFORMES - funcionalidad implmentada en la rama develop para que solo se vea en remoto en developgesco
+INFORMES ESTABLE - despues de haber realizado la implementacion de funcionalidad en una rama
